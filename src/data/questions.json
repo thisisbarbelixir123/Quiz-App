@@ -1,0 +1,27 @@
+[
+    {
+        "title": "What is the largest continent on Earth?",
+        "options": ["Africa", "Asia", "Europe", "America"],
+        "correctOptionIndex": 1
+    },
+    {
+        "title": "What is the capital of the United States?",
+        "options": ["Washington DC", "Los Angeles", "New York", "Houston"],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "What is the tallest mountain on Earth?",
+        "options": ["K2", "McKinley", "Mont Blanc", "Everest"],
+        "correctOptionIndex": 3
+    },
+    {
+        "title": "Who invented the telephone?",
+        "options": ["Thomas Alva Edison", "Nikola Tesla", "Alexander Graham Bell", "Alan Turing"],
+        "correctOptionIndex": 2
+    },
+    {
+        "title": "Who is the current president of the United States?",
+        "options": ["Donald Trump", "Joe Biden", "George Bush", "Barack Obama"],
+        "correctOptionIndex": 0
+    }
+]
